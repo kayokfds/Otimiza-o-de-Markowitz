@@ -1,5 +1,3 @@
-%%writefile app.py
-
 # Import de Bibliotecas
 import streamlit as st
 import pandas as pd
