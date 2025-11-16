@@ -44,7 +44,7 @@ def monte_carlo(retornos_medios, covariancias, selic, num_simulacoes=100000):
     return resultados_cache, pesos_carteira_cache
 
 warnings.filterwarnings('ignore')
-st.set_page_config(layout="wide")
+st.set_page_config(page_title="Implementação de Markowitz - Kayo Silva", layout="wide")
 
 ##### Classificando o Perfil
 st.sidebar.header("Questionário de Perfil de Risco")
