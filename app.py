@@ -91,6 +91,9 @@ perfil, peso_arriscada, peso_selic = classificar_perfil(respostas)
 st.title("Otimizador de Portfólio Markowitz")
 st.write("Kayo Francisco da Silva | B51234")
 
+st.markdown('''
+https://www.canva.com/design/DAG6osmXM6o/P2Sv1b0jFxKLyUJOt4zHgw/edit
+''')
 # Introdução
 st.subheader("Sobre este Projeto")
 st.markdown('''
